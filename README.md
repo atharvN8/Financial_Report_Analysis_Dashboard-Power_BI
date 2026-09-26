@@ -3,12 +3,12 @@ An interactive Financial Performance Dashboard built using Microsoft Power BI to
 This dashboard provides a complete financial overview with dynamic filtering and drill-down capabilities.
 An advanced business intelligence solution built to analyze the financial performance. This project transitions from a static reporting style to a dynamic, multi-dimensional Power BI environment.
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 Overview Page
 Sales Breakdown Page
 Time Series Analysis Page
 
-## 🚀 Project Overview
+##  Project Overview
 This Power BI dashboard helps analyze:
 
 Total Sales
@@ -27,17 +27,17 @@ Product
 Discount Band
 Date Range
 
-## 📌 Key KPIs
+## Key KPIs
 
-💰 Total Sales
-🏷️ Total COGS
-📈 Total Margin
-📊 Profit %
-🧾 Average Order Value
+Total Sales
+Total COGS
+Total Margin
+Profit %
+Average Order Value
 All KPIs dynamically update based on selected filters.
 
-## 📊 Dashboard Pages & Insights
-### 1️⃣ Financial Overview
+##  Dashboard Pages & Insights
+### Financial Overview
 
 Includes:
 
@@ -46,9 +46,9 @@ Sales Distribution by Country (Map View)
 Sales by Discount Band (Donut Chart)
 Sales by Segment
 Sales by Product
-📌 Helps identify which markets and segments drive profitability.
+ Helps identify which markets and segments drive profitability.
 
-### 2️⃣ Sales Breakdown Analysis
+###  Sales Breakdown Analysis
 
 Includes:
 
@@ -56,18 +56,18 @@ Total Sales by Country (Bar Chart)
 Total Sales by Discount Band
 Total Sales by Segment
 Total Sales by Product
-📌 Useful for identifying high-performing regions and products.
+ Useful for identifying high-performing regions and products.
 
-### 3️⃣ Time Series Analysis
+###  Time Series Analysis
 
 Includes:
 
 Total Sales by Date (Trend Analysis with Forecasting)
 Sales vs COGS Comparison
 Margin Trend Analysis
-📌 Helps detect growth patterns, seasonality, and financial performance over time.
+Helps detect growth patterns, seasonality, and financial performance over time.
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 Microsoft Power BI
 Power Query (ETL & Data Cleaning)
@@ -77,7 +77,7 @@ Time Intelligence Functions
 Forecasting Feature
 Interactive Slicers & Filters
 
-## 📂 Repository Structure
+## Repository Structure
 Financial-Report-Dashboard/
 │
 ├── Financial report_Advanced.pbix
@@ -86,7 +86,7 @@ Financial-Report-Dashboard/
 ├── Dashboard Third Image.png
 └── README.md
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 
 Data Cleaning & Transformation using Power Query
 DAX Measures (Sales, COGS, Profit, Margin %)
@@ -96,7 +96,7 @@ Financial Analysis
 Time Series Analysis & Forecasting
 Business Storytelling with Data
 
-## 🎯 Business Value
+## Business Value
 
 This dashboard enables stakeholders to:
 
@@ -107,7 +107,7 @@ Compare Sales vs COGS performance
 Track profit trends over time
 Make data-driven financial decisions
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 Add Year-over-Year (YoY) and Month-over-Month (MoM) growth analysis
 Add Profit Margin by Product
@@ -115,10 +115,10 @@ Add Drill-through pages
 Publish to Power BI Service
 Create Executive Summary version
 
-## 👨‍💻 Author
+##  Author
 
 Atharv Netankar
-Aspiring Software Engineer | Data Analytics & Business Intelligence Enthusiast
+Data Analytics & Business Intelligence Enthusiast
 
-## ⭐ If you found this useful
+## If you found this useful
 Give this repository a ⭐ on GitHub!

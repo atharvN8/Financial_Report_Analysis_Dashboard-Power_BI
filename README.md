@@ -77,14 +77,15 @@ Time Intelligence Functions
 Forecasting Feature
 Interactive Slicers & Filters
 
-## Repository Structure
-Financial-Report-Dashboard/
-│
+##  Repository Structure
+```
+Financial-Report-Dashboard
 ├── Financial report_Advanced.pbix
 ├── Dashboard First  Image.png
 ├── Dashboard Second Image.png
 ├── Dashboard Third Image.png
 └── README.md
+```
 
 ## Skills Demonstrated
 

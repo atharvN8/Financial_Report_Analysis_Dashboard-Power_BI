@@ -1,7 +1,9 @@
-# Financial_Report_Analysis_Dashboard-Power_BI
+# Financial Report Analysis Dashboard-Power_BI
 An interactive Financial Performance Dashboard built using Microsoft Power BI to analyze Sales, COGS (Cost of Goods Sold), Profit, and Business Performance across countries, segments, products, and discount bands.
 This dashboard provides a complete financial overview with dynamic filtering and drill-down capabilities.
 An advanced business intelligence solution built to analyze the financial performance. This project transitions from a static reporting style to a dynamic, multi-dimensional Power BI environment.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?logo=powerbi&logoColor=black)
 
 ## Dashboard Preview
 Overview Page
